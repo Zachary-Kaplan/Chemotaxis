@@ -2,7 +2,6 @@ Mice [] colony;
 boolean follow = true;
 void setup()   
  {   
-   frameRate(7);
    size(500,500);
    background(255);
    colony = new Mice[5];
