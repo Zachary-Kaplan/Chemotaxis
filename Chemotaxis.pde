@@ -87,7 +87,6 @@ void setup()
        {
          rotationAngle = atan((yearnY - y) / (yearnX - x)) + (PI / 2);
        }
-       System.out.println(rotationAngle);
      if (follow == true)
      {
        if (deltaX < 0)
